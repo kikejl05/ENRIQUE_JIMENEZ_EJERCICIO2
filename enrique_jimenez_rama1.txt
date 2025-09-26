@@ -1,1 +1,2 @@
 Contenido rama1
+Nueva línea en rama1 desde master
